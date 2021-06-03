@@ -14,5 +14,6 @@ function draw() {
   background(field);
   //This is where the ball is being implement
   image(img, 240, 240, 40, 40);
+  arrow();
   
 }
