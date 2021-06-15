@@ -1,3 +1,4 @@
+
 // Class tar is for target so the user knows where to shoot using the arrow
 class Tar {
   constructor(x, y, color, size, goal) {
